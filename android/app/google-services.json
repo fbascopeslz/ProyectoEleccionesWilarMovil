@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "420919065487",
+    "firebase_url": "https://elecciones2020wilar.firebaseio.com",
+    "project_id": "elecciones2020wilar",
+    "storage_bucket": "elecciones2020wilar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420919065487:android:1214780cb519478c20e9fa",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_examen_elecciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420919065487-kip0d4mnagp5qacbfhn02inslk6d5qi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa6v30TfTXork9SWpjDamhd0Mg3pIjp2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420919065487-kip0d4mnagp5qacbfhn02inslk6d5qi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

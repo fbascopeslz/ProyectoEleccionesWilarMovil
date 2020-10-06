@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">420919065487-kip0d4mnagp5qacbfhn02inslk6d5qi5.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://elecciones2020wilar.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">420919065487</string>
+    <string name="google_api_key" translatable="false">AIzaSyAa6v30TfTXork9SWpjDamhd0Mg3pIjp2c</string>
+    <string name="google_app_id" translatable="false">1:420919065487:android:1214780cb519478c20e9fa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAa6v30TfTXork9SWpjDamhd0Mg3pIjp2c</string>
+    <string name="google_storage_bucket" translatable="false">elecciones2020wilar.appspot.com</string>
+    <string name="project_id" translatable="false">elecciones2020wilar</string>
+</resources>
